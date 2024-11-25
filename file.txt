@@ -1,5 +1,1 @@
-Abdul Aziz Karimov
-$$$
-%%%
-!!!
 PORT: 8080
